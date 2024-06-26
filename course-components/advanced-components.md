@@ -32,7 +32,7 @@ To get these components, simply copy and paste the following code into your Adva
 
 ```
 [
-    "scormxblock",
+    "scorm",
     "conditional",
     "ubcpi",
     "word_cloud",
