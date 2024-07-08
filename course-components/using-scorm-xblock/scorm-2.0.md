@@ -2,11 +2,11 @@
 description: Update of the original Scorm component.
 ---
 
-# Scorm 2.0
+# SCORM file
 
-## Step one: add the new SCORM module to your course.&#x20;
+## Step one: add the SCORM module to your course.&#x20;
 
-From **Studio Home**, open the desired course. In **Settings** > **Advanced settings** > **List of advanced modules add** `"scorm,"`
+From **Studio Home**, open the desired course. In **Settings** > **Advanced settings** > **List of advanced modules add** `"scorm"`
 
 ![](<../../.gitbook/assets/Screen Shot 2021-05-18 at 15.09.15.png>)
 

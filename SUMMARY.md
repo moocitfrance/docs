@@ -50,7 +50,7 @@
   * [Common Problem Settings](course-components/common-problem-types/common-problem-settings.md)
 * [Images](course-components/images.md)
 * [Advanced Components](course-components/advanced-components.md)
-* [SCORM File](course-components/scorm-2.0.md)
+* [SCORM file](course-components/using-scorm-xblock/scorm-2.0.md)
 * [PDF File](course-components/pdf-file.md)
 * [PDF viewer without download / print option](course-components/pdf-viewer-without-download-print-option.md)
 * [Downloadable Document Button](course-components/add-downloadable-documents-for-learners.md)
